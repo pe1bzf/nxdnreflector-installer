@@ -15,10 +15,11 @@ chmod +x install_nxdn_all_in_one.sh
 
 sudo bash install_nxdn_all_in_one.sh
 
-Watch the show en enjoy.
+    Watch the show en enjoy.
 
 Post install:
-goto <IP-ADDRESS>/NXDNReflector-Dashboard2/setup.php
+
+goto ip-add/NXDNReflector-Dashboard2/setup.php
 
 edit /etc/NXDVReflector.ini for your own used reflector number 
 
