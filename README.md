@@ -1,6 +1,9 @@
 One-step NXDNReflector installer for Raspberry Pi OS
+
 Based on the repository DVReflector from nostar
+
 Made with a lot of help from chatGPT ;-)
+
 
 Install a lite version of the raspberry OS (full version will also work, bud with overhead)
 user mmdvm
