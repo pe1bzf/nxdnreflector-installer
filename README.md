@@ -8,6 +8,7 @@ Made with a lot of help from chatGPT ;-)
 Install a lite version of the raspberry OS (full version will also work, bud with overhead)
 
 user mmdvm
+
 copy install_nxdn_all_in_one.sh into home directory
 
 chmod +x install_nxdn_all_in_one.sh
