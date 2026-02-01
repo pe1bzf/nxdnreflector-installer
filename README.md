@@ -17,11 +17,9 @@ copy install_nxdn_all_in_one.sh into home directory
 
    Watch the show en enjoy.
 
-Post install:
+Post install: (script polished for maximum convenience)
 
-goto ip-add/NXDNReflector-Dashboard2/setup.php
-
-edit /etc/NXDVReflector.ini for your own used reflector number 
+follow instructions on screen
 
 enable via DVref.com 
 
