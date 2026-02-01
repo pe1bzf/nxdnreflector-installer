@@ -11,8 +11,8 @@ user mmdvm
 
 copy install_nxdn_all_in_one.sh into home directory
 
-        chmod +x install_nxdn_all_in_one.sh
-
+        sudo chmod +x install_nxdn_all_in_one.sh
+        sudo dos2unix install_nxdn_all_in_one.sh (if necessary)
         sudo bash install_nxdn_all_in_one.sh
 
    Watch the show en enjoy.
