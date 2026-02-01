@@ -27,3 +27,18 @@ Read https://dvref.com/docs/getting-started/
 
 
 That's all folks
+
+additional info:
+script contains
+        update and upgrade
+        install apache2, php, git, build essentials and more (see script for details)
+        config ufw firewall
+        git clone repro NXDNReflector from github
+        config reflector, log-files and proper rights to read log-file
+        create systemd services for auto start and more
+        configure logrotate
+        nxdn user database update daily at 05:30 from radioid.net
+        install NXDNReflector-Dashboard2 from ShaYmez 
+        
+        
+        
