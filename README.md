@@ -30,6 +30,7 @@ That's all folks
 
 additional info:
 script contains
+
         update and upgrade
         install apache2, php, git, build essentials and more (see script for details)
         config ufw firewall
