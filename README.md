@@ -10,7 +10,8 @@ Install a lite version of the raspberry OS (full version will also work, bud wit
 user mmdvm
 
 copy install_nxdn_all_in_one.sh into home directory
-or use git clone 
+
+(or use: git clone https://github.com/pe1bzf/nxdnreflector-installer.git)
 
         sudo chmod +x install_nxdn_all_in_one.sh
         sudo dos2unix install_nxdn_all_in_one.sh (if necessary)
