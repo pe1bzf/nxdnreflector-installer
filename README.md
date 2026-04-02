@@ -2,26 +2,28 @@ One-step NXDNReflector installer for Raspberry Pi OS
 
 Based on the repository DVReflector from nostar
 
-Made with a lot of help from chatGPT ;-)
+Made with a lot of help from Claude.ai ;-)
 
 
-Install a lite version of the raspberry OS (full version will also work, bud with overhead)
+Install a 64 bit lite version of the raspberry OS 
 
 user mmdvm
 
-copy install_nxdn_all_in_one.sh into home directory
+copy install_nxdnreflector.sh into home directory
 
-(or use: git clone https://github.com/pe1bzf/nxdnreflector-installer.git)
+(or use: git clone https://github.com/pe1bzf/install_nxdnreflector.git)
 
         sudo chmod +x install_nxdn_all_in_one.sh
-        sudo dos2unix install_nxdn_all_in_one.sh (if necessary)
-        sudo bash install_nxdn_all_in_one.sh
+        sudo bash install_nxdnreflector.sh
 
    Watch the show en enjoy.
 
+Interactive-menu
+Also, if chosen, icecast for live listening nxdn transmissions on your reflector
 Post install: (script polished for maximum convenience)
+dont forget to run the setup.php from the homepage of the dashboard
 
-follow instructions on screen
+follow instructions on screen.
 
 enable via DVref.com 
 
@@ -40,7 +42,8 @@ script contains
         config reflector, log-files and proper rights to read log-file
         create systemd services for auto start and more
         configure logrotate
-        nxdn user database update daily at 05:30 from radioid.net
+        install icecast
+        nxdn user database update daily at 05:30 from radioid.net and check for update every hour
         install NXDNReflector-Dashboard2 from ShaYmez 
         
         
