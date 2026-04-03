@@ -21,7 +21,7 @@ Interactive-menu made on Whiptail.
 
 if chosen, icecast for live listening nxdn transmissions on your reflector
 
-Post install: 
+Post install:
 dont forget to run the setup.php from the homepage of the dashboard
 to finish the dashboard install.
 
