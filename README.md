@@ -28,6 +28,7 @@ to finish the dashboard install.
 follow instructions on screen.
 
 Registrate and enable your reflector via DVref.com and Radioid.com  for visability for Hamradio amateurs
+
 Read instructions on https://dvref.com/docs/getting-started/
 
 That's all folks
