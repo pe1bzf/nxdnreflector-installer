@@ -17,7 +17,8 @@ copy install_nxdnreflector.sh into home directory
 
    Watch the show en enjoy.
 
-Interactive-menu made on Whiptail
+Interactive-menu made on Whiptail.
+
 if chosen, icecast for live listening nxdn transmissions on your reflector
 
 Post install: 
