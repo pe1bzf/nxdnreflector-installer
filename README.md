@@ -6,9 +6,10 @@ and Icecast for live decoded audio with DSD
 
 Made with a lot of help from Claude.ai ;-)
 
-Install a 64 bit lite version of the raspberry OS 
-user mmdvm
+Install a 64 bit lite version of the raspberry OS, 
+user mmdvm,
 copy install_nxdnreflector.sh into home directory
+
 (or use: git clone https://github.com/pe1bzf/install_nxdnreflector.git)
 
         sudo chmod +x install_nxdnreflector.sh
