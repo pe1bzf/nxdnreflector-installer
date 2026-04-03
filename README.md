@@ -1,39 +1,37 @@
 One-step NXDNReflector installer for Raspberry Pi OS
+Also tested on Debian 13, Other Linux flavor not tested
 
 Based on the repository DVReflector from nostar
+and Icecast for live decoded audio with DSD
 
 Made with a lot of help from Claude.ai ;-)
 
-
 Install a 64 bit lite version of the raspberry OS 
-
 user mmdvm
-
 copy install_nxdnreflector.sh into home directory
-
 (or use: git clone https://github.com/pe1bzf/install_nxdnreflector.git)
 
-        sudo chmod +x install_nxdn_all_in_one.sh
+        sudo chmod +x install_nxdnreflector.sh
         sudo bash install_nxdnreflector.sh
 
    Watch the show en enjoy.
 
-Interactive-menu
-Also, if chosen, icecast for live listening nxdn transmissions on your reflector
-Post install: (script polished for maximum convenience)
+Interactive-menu made on Whiptail
+if chosen, icecast for live listening nxdn transmissions on your reflector
+
+Post install: 
 dont forget to run the setup.php from the homepage of the dashboard
+to finish the dashboard install.
 
 follow instructions on screen.
 
-enable via DVref.com 
-
-Read https://dvref.com/docs/getting-started/
-
+Registrate and enable your reflector via DVref.com and Radioid.com  for visability for Hamradio amateurs
+Read instructions on https://dvref.com/docs/getting-started/
 
 That's all folks
 
 additional info:
-script contains
+script contains:
 
         update and upgrade
         install apache2, php, git, build essentials and more (see script for details)
